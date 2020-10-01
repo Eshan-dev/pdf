@@ -1,7 +1,7 @@
 PDF
 ===
 
-PDF extension is intended to provide features for PDF manipulation, such as
+PDF extension is intended to provide some features for PDF manipulation, such as
 filling PDF forms, merging PDF files together or outputting PDF to the browser
 directly.
 
@@ -17,7 +17,7 @@ to includes list in the main config:
 
 Make sure you have [pdftk](http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
 installed. You can specify path to the pdftk console command using Pdftk::$path variable.
-By default it checks 'pdftk' and '/usr/bin/pdftk' paths.
+By default it checks 'pdftk' and '/usr/bin/pdftk' paths and You can ADD a Environment Variable Manually.
 
 Usage
 -----
